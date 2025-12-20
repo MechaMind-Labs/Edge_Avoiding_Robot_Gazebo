@@ -105,7 +105,7 @@ docker run -it --rm \
   --network host \
   -e DISPLAY=$DISPLAY \
   -v /tmp/.X11-unix:/tmp/.X11-unix:rw \
-  curiousutkarsh/edge_avoiding_robot:humble
+  curiousutkarsh/edge_avoiding_robot:humble bash
 ```
 
 ---
