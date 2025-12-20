@@ -103,11 +103,8 @@ docker pull curiousutkarsh/edge_avoiding_robot:humble
 docker run -it --rm \
   --name edge_avoiding_robot \
   --network host \
-  --privileged \
   -e DISPLAY=$DISPLAY \
   -v /tmp/.X11-unix:/tmp/.X11-unix:rw \
-  -v /dev:/dev \
-  --device-cgroup-rule='c *:* rmw' \
   curiousutkarsh/edge_avoiding_robot:humble
 ```
 
