@@ -106,16 +106,10 @@ echo "source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash" >> ~/.b
 
 ## 🚀 Run the Simulation
 
-### Terminal 1: Launch Gazebo with the robot
+### Terminal : Launch Gazebo with the robot
 
 ```bash
 ros2 launch bot_bringup simulated_robot.launch.py
-```
-
-### Terminal 2: Run the Edge Detection Node
-
-```bash
-ros2 run bot_script edge_detection
 ```
 
 ✅ You should now see:

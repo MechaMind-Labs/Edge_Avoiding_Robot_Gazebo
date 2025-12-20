@@ -58,5 +58,5 @@ def generate_launch_description():
         gazebo,
         #rviz,
         controller_only,
-        # edge_avoidance_node,
+        edge_avoidance_node,
     ])
