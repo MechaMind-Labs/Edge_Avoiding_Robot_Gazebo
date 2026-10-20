@@ -7,6 +7,13 @@ The robot uses a simulated **LIDAR sensor in Gazebo** and reacts to edges or dro
 ## 🎥 Edge Avoiding Robot Demo  
 https://github.com/user-attachments/assets/4429458a-abf8-4671-920a-71deb08a8aca
 
+
+> **At a glance:** a differential-drive robot built from scratch in a live workshop — URDF, Gazebo, ros2_control and a LiDAR-based node that detects table edges and steers away before falling.
+>
+> **Watch:** [full workshop recording](https://youtu.be/luZq317FUrE) · **Step-by-step handout:** [session_steps](https://github.com/Curious-Utkarsh/session_steps)
+>
+> **Related:** [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) — the full autonomous robot that followed these workshops · [Gesture Controlled Robot](https://github.com/MechaMind-Labs/Gesture_Controlled_Robot)
+
 ---
 
 ## 📦 Prerequisites
