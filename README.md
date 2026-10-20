@@ -10,9 +10,9 @@ https://github.com/user-attachments/assets/4429458a-abf8-4671-920a-71deb08a8aca
 
 > **At a glance:** a differential-drive robot built from scratch in a live workshop — URDF, Gazebo, ros2_control and a LiDAR-based node that detects table edges and steers away before falling.
 >
-> **Watch:** [full workshop recording](https://youtu.be/luZq317FUrE) · **Step-by-step handout:** [session_steps](https://github.com/MechaMind-Labs/session_steps) · **LinkedIn:** [workshop announcement](https://www.linkedin.com/feed/update/urn:li:activity:7347632566243381248/) · [200+ registrations](https://www.linkedin.com/feed/update/urn:li:activity:7350075460153733120/)
+> **Watch:** [full workshop recording](https://youtu.be/luZq317FUrE) · **Step-by-step handout:** [edge-avoiding-robot-workshop-guide](https://github.com/MechaMind-Labs/edge-avoiding-robot-workshop-guide) · **LinkedIn:** [workshop announcement](https://www.linkedin.com/feed/update/urn:li:activity:7347632566243381248/) · [200+ registrations](https://www.linkedin.com/feed/update/urn:li:activity:7350075460153733120/)
 >
-> **Related:** [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) — the full autonomous robot that followed these workshops · [Gesture Controlled Robot](https://github.com/MechaMind-Labs/MicroROS_Gesture_Controlled_Robot_MPU6050)
+> **Related:** [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) — the full autonomous robot that followed these workshops · [Gesture Controlled Robot](https://github.com/MechaMind-Labs/microros-gesture-robot)
 
 ---
 
@@ -190,7 +190,7 @@ sudo apt install git
 #### 5️⃣ Clone This Repository
 ```bash
 cd ~
-git clone https://github.com/MechaMind-Labs/Edge_Avoiding_Robot_Gazebo.git Edge_Avoiding_Robot
+git clone https://github.com/MechaMind-Labs/edge-avoiding-robot.git Edge_Avoiding_Robot
 cd Edge_Avoiding_Robot
 ```
 
@@ -329,7 +329,7 @@ This project is open-source and available under the MIT License.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/MechaMind-Labs/Edge_Avoiding_Robot_Gazebo/issues).
+Feel free to check the [issues page](https://github.com/MechaMind-Labs/edge-avoiding-robot/issues).
 
 ---
 
